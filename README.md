@@ -16,21 +16,18 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
-```yaml
-name       : Adrián Quirós Sanvicente
-role       : Full Stack Software Engineer
-university : UCENFOTEC · Costa Rica
-focus      : Backend & Architecture
-stack      : .NET · Spring Boot · React
-cloud      : Azure · AWS
-hobbies    : Sim racing · Clean code
-degree     : ~89% done (send help)
-```
+Hey — I'm **Adrián**, a Full Stack Software Engineer from Costa Rica. I live mostly in backend and architecture territory — designing systems, untangling legacy code, and making sure nothing explodes in production.
+
+Wrapping up my **B.Sc. in Software Engineering at UCENFOTEC** (~89% done, the finish line is right there).
+
+I'm the kind of developer who refactors something "real quick" and resurfaces three hours later with a completely redesigned module. No regrets.
+
+> *"I'll be waiting — and I never give up on the things I care about."*
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adrianquiros&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7C3AED&fire=9333EA&currStreakLabel=C4B5FD)
 
