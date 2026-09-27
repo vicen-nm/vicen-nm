@@ -50,18 +50,7 @@ Resolved a critical outbound calling regression across a multi-tenant VoIP platf
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adrianquiros&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7C3AED&fire=9333EA&currStreakLabel=C4B5FD)
-
-![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianquiros&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C4B5FD&icon_color=7C3AED&text_color=E9D5FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianquiros&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C4B5FD&text_color=E9D5FF)
-
-</div>
-
----
 
 ## 🎮 Off the Clock
 
